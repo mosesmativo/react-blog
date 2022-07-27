@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c2c9fb7.css",
+    "main.js": "/static/js/main.e8cfefa6.js",
+    "static/media/banner-one.jpg": "/static/media/banner-one.93149bc274704a792989.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/customer.jpg": "/static/media/customer.66fa8d8c67e9d27f02a6.jpg",
+    "static/media/tecgnology.jpg": "/static/media/tecgnology.fdb52b4054b4e198d94b.jpg",
+    "static/media/road.jpg": "/static/media/road.8aa35c874df289bc5b51.jpg",
+    "static/media/Futura-Bold.svg": "/static/media/Futura-Bold.e91aa9bfe0e572e6df38.svg",
+    "static/media/Futura.svg": "/static/media/Futura.8574afa040904f13cfd2.svg",
+    "static/media/cost-leadership.jpg": "/static/media/cost-leadership.5f3abf28a801db815b6e.jpg",
+    "static/media/404.png": "/static/media/404.36aad9b177e73bb90098.png",
+    "static/media/partnerships.jpg": "/static/media/partnerships.086fe4e4cba49391922a.jpg",
+    "static/media/futura_medium_bt-webfont.woff": "/static/media/futura_medium_bt-webfont.dc465fcae56526053cbc.woff",
+    "static/media/Futura-Bold.eot": "/static/media/Futura-Bold.fa0ab9a3793ae591b3cf.eot",
+    "static/media/Futura-Bold.ttf": "/static/media/Futura-Bold.cbdcea6876b5126bc12a.ttf",
+    "static/media/Futura.eot": "/static/media/Futura.f937b63bbe3ba8a97a62.eot",
+    "static/media/Futura.ttf": "/static/media/Futura.73246e7b0020e5816e03.ttf",
+    "static/media/futura_medium_bt-webfont.woff2": "/static/media/futura_medium_bt-webfont.3dd3da2dd4046049bd3c.woff2",
+    "static/media/Futura-Bold.woff": "/static/media/Futura-Bold.557755e90f9dd5e9b7a0.woff",
+    "static/media/Futura.woff": "/static/media/Futura.ab91858a214787a28801.woff",
+    "static/media/Futura-Bold.woff2": "/static/media/Futura-Bold.30ded54abd8e40d327f1.woff2",
+    "index.html": "/index.html",
+    "main.7c2c9fb7.css.map": "/static/css/main.7c2c9fb7.css.map",
+    "main.e8cfefa6.js.map": "/static/js/main.e8cfefa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2c9fb7.css",
+    "static/js/main.e8cfefa6.js"
+  ]
+}
